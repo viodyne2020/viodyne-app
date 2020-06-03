@@ -1,8 +1,7 @@
 <template>
-  <div class="container">
-    <div>
-      <logo />
+  
+    <div> 
       <h1 class="title">Home</h1>
-    </div>
-  </div>
+     
+    </div> 
 </template>

@@ -1,8 +1,5 @@
 <template>
-  <div class="container">
-    <div>
-      <logo />
-      <h1 class="title">Products</h1>
-    </div>
+  <div >
+      <img src="../../assets/images/prototype/product-page.jpg" class="img-fluid" />
   </div>
 </template>
